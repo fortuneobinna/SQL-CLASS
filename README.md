@@ -9,4 +9,4 @@
 
 ## Adding Photo
 - My Passport
-![][Link to Passport](https://github.com/fortuneobinna/SQL-CLASS/blob/main/Fortune.jpg)
+![Link to Passport](https://github.com/fortuneobinna/SQL-CLASS/blob/main/Fortune.jpg)
